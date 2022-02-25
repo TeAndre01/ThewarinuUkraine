@@ -1,0 +1,33 @@
+#backgroundi{
+    background: url("https://i.insider.com/61a567e81f8b8c00195abfac?width=1200&format=jpeg");
+    height: 650px;
+    border-bottom: 11px solid darkolivegreen;
+    background-size: cover;
+    position: sticky;
+    margin-left: 0px;
+    background-repeat: no-repeat;
+    margin-bottom: 0;
+}
+#russia{
+    color: white;
+    padding-top: 250px;
+    text-align: center;
+}
+#russia:hover{
+    text-transform: full-width;
+}
+
+#uk-margin{
+    display: inline-block;
+    text-align: right;
+    padding-right: 0px;
+    margin: 10px 0px 10px 0px;
+
+}
+#paragraph{
+    margin-top: 0;
+    color: black;
+}
+#paragraph>h1{
+    color: darkolivegreen;
+}
